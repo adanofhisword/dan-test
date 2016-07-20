@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Dan's HTML Test</test>
+      <style type="text/css">
+      body {
+        font-family: Arial, Verdana, sans-serif;
+        color: #666666
+        background-color: #f8f8f8;}
+  </head>
+  <body>
+    <h1>Testing</h1>
+    <p>Testing Paragraph</p>
+  </html>
